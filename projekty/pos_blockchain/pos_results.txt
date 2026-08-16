@@ -1,0 +1,55 @@
+=== Wyniki Scenariusza 3 i 4 ===
+Powtórka 1: CPU=6.25%, RAM=47.20%, TPS=96.44, Czas=10.368841s
+Powtórka 2: CPU=7.37%, RAM=47.11%, TPS=96.39, Czas=10.374624s
+Powtórka 3: CPU=5.97%, RAM=47.09%, TPS=96.51, Czas=10.362115s
+Powtórka 4: CPU=7.47%, RAM=47.09%, TPS=96.58, Czas=10.353670s
+Powtórka 5: CPU=7.53%, RAM=47.10%, TPS=96.34, Czas=10.379739s
+Powtórka 6: CPU=8.11%, RAM=47.09%, TPS=96.33, Czas=10.380796s
+Powtórka 7: CPU=5.66%, RAM=47.10%, TPS=96.30, Czas=10.384525s
+Powtórka 8: CPU=8.11%, RAM=47.06%, TPS=96.47, Czas=10.365482s
+Powtórka 9: CPU=7.55%, RAM=47.08%, TPS=96.31, Czas=10.383123s
+Powtórka 10: CPU=6.81%, RAM=47.07%, TPS=96.45, Czas=10.368389s
+Powtórka 11: CPU=6.94%, RAM=47.05%, TPS=96.31, Czas=10.383280s
+Powtórka 12: CPU=7.54%, RAM=47.07%, TPS=96.43, Czas=10.370449s
+Powtórka 13: CPU=6.74%, RAM=47.03%, TPS=96.44, Czas=10.368751s
+Powtórka 14: CPU=6.85%, RAM=47.00%, TPS=96.38, Czas=10.375930s
+Powtórka 15: CPU=7.31%, RAM=47.01%, TPS=96.21, Czas=10.394178s
+Powtórka 16: CPU=7.56%, RAM=47.00%, TPS=96.44, Czas=10.369283s
+Powtórka 17: CPU=6.98%, RAM=47.09%, TPS=96.32, Czas=10.381742s
+Powtórka 18: CPU=7.33%, RAM=47.20%, TPS=96.38, Czas=10.376103s
+Powtórka 19: CPU=6.47%, RAM=47.15%, TPS=96.38, Czas=10.375611s
+Powtórka 20: CPU=7.26%, RAM=46.98%, TPS=96.44, Czas=10.368758s
+
+Œrednie wartoœci ± Odchylenie standardowe:
+CPU: 7.09 ± 0.63%
+RAM: 47.08 ± 0.06%
+TPS: 96.39 ± 0.08
+Czas: 10.374270 ± 0.008975s
+
+=== Wyniki Scenariusza 5 ===
+Powtórka 1: CPU=7.21%, RAM=47.30%, TPS=80.32, Czas=12.450400s
+Powtórka 2: CPU=6.40%, RAM=47.28%, TPS=80.35, Czas=12.445809s
+Powtórka 3: CPU=6.31%, RAM=47.27%, TPS=80.25, Czas=12.460611s
+Powtórka 4: CPU=7.08%, RAM=47.29%, TPS=80.31, Czas=12.451568s
+Powtórka 5: CPU=5.50%, RAM=47.26%, TPS=80.31, Czas=12.451838s
+Powtórka 6: CPU=6.97%, RAM=47.26%, TPS=80.33, Czas=12.449358s
+Powtórka 7: CPU=6.71%, RAM=47.25%, TPS=80.46, Czas=12.428338s
+Powtórka 8: CPU=6.19%, RAM=47.25%, TPS=80.29, Czas=12.455374s
+Powtórka 9: CPU=7.20%, RAM=47.28%, TPS=80.25, Czas=12.461066s
+Powtórka 10: CPU=6.68%, RAM=47.22%, TPS=80.41, Czas=12.436680s
+Powtórka 11: CPU=5.08%, RAM=47.24%, TPS=80.39, Czas=12.438599s
+Powtórka 12: CPU=4.80%, RAM=47.23%, TPS=80.38, Czas=12.440487s
+Powtórka 13: CPU=7.02%, RAM=47.23%, TPS=80.39, Czas=12.438799s
+Powtórka 14: CPU=6.09%, RAM=47.22%, TPS=80.31, Czas=12.451601s
+Powtórka 15: CPU=6.86%, RAM=47.08%, TPS=80.42, Czas=12.435348s
+Powtórka 16: CPU=5.90%, RAM=47.01%, TPS=80.27, Czas=12.458494s
+Powtórka 17: CPU=5.92%, RAM=46.99%, TPS=80.27, Czas=12.457804s
+Powtórka 18: CPU=7.11%, RAM=46.99%, TPS=80.33, Czas=12.449317s
+Powtórka 19: CPU=5.71%, RAM=46.99%, TPS=80.29, Czas=12.454544s
+Powtórka 20: CPU=5.67%, RAM=46.97%, TPS=80.32, Czas=12.449998s
+
+Œrednie wartoœci ± Odchylenie standardowe:
+CPU: 6.32 ± 0.71%
+RAM: 47.18 ± 0.12%
+TPS: 80.33 ± 0.06
+Czas: 12.448302 ± 0.008928s
